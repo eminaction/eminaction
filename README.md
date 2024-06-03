@@ -1,4 +1,12 @@
 <br>
+### Hi there 👋
+* 👂 My name is Emma Carter
+* 👩 Pronouns: she/her
+* 🔭 I’m currently working on creating my portfolio page 
+* 🌱 I’m currently learning Typescript
+* 📫 How to reach me: LinkedIn -> <a href="www.linkedin.com/in/emma-carter-010995179">Click Here!</a>
+* ❤️ I love health, fitness, & baking!
+* ⚡ Fun fact: ...
 <br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: auto;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px; height: auto;"/>
