@@ -6,7 +6,7 @@
 * 🌱 I’m currently learning Typescript
 * 📫 How to reach me: LinkedIn -> <a href="www.linkedin.com/in/emma-carter-010995179">Click Here!</a>
 * ❤️ I love health, fitness, coding & baking!
-* ⚡️ Fun fact: I have been vegan for over 3 years
+
 <br>
 <br>
 <p align="center">
