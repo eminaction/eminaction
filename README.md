@@ -1,6 +1,6 @@
-### Hi there I'm Emma 👋
+### 👋 Hi there I'm Emma,
 #### Junior Software Developer/Baking Enthusiast
-
+---
 * 👩 Pronouns: she/her
 * 🔭 I’m currently working on creating my portfolio page 
 * 🌱 I’m currently learning Typescript
